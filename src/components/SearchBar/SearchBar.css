@@ -1,0 +1,15 @@
+.form-control{
+    border: 2px solid black;
+    border-radius: 0;
+    padding-left: 500px ;
+    margin-left: -100px;
+}
+
+.searchbar--button {
+    background-color: black;
+    color: white;
+    border: 0;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}

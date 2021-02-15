@@ -1,0 +1,26 @@
+.titulo{
+    margin: 18px 28px 0px;
+}
+.nomeMaiusculo{
+    margin-top: -5px;
+    margin-left: 28px;
+}
+.nomeMinusculo{
+    margin-left: 28px;
+}
+.pesquisar{
+    margin: 28px 0 0 28px;
+}
+.img-fluid{
+    width: 90%;
+    margin: 30px 28px;
+    border-radius: 5px;
+}
+.conteudoRepositorio{
+   margin: 5% 5%;
+}
+.todosIcones{
+    margin-top: 135px;
+    margin-left: 28px;
+    
+}

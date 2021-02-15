@@ -1,0 +1,21 @@
+html, body, #app, .container {
+    height: 100%;    
+}
+
+.PrimeiroNome{
+    display: inline-block;
+    font-size: 64px;
+    text-align: inherit;
+    font-weight: bold;
+    font-style: normal;
+    font-family: Roboto Mono;
+    margin-left: 80px;
+}
+.SegundoNome{
+    display: flex;
+    margin-left: 300px;
+    margin-top: -96px;
+    font-size: 64px;
+    font-style: italic;
+    font-family: Rubik;
+}
