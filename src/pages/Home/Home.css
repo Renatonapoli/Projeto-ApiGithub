@@ -12,7 +12,6 @@ html, body, #app, .container {
     margin-left: 80px;
 }
 .SegundoNome{
-    display: flex;
     margin-left: 300px;
     margin-top: -96px;
     font-size: 64px;
